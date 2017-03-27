@@ -33,7 +33,7 @@
 
 <h3>To generate valid data in HSQLDB</h3>
 
-Go to package <b>com.atos.library.service</b> in <b>InitDBService.class</b> and <b><i><u>uncomment</u></i></b> createData() method (in @PostConstruct void initDB() method)
+1. Go to package <b>com.atos.library.service</b> in <b>InitDBService.class</b> and <b><i><u>uncomment</u></i></b> createData() method (in @PostConstruct void initDB() method)
 <div class="highlight highlight-text-html-php">
 <pre>
 @PostConstruct
@@ -43,20 +43,22 @@ public void initDB(){
 </pre>
 </div>
 
-In Eclipse Console you can read results of implemented methods based on genetated data. 
+2. In Eclipse Console you can read results of implemented methods based on genetated data. 
 
 <h3>To run some of implemented jUnit tests</h3>
 
-Go to package <b>com.atos.library.service</b> in <b>InitDBService.class</b> and <b><i><u>comment</u></i></b> createData() method (in @PostConstruct void initDB() method)
+1. Go to package <b>com.atos.library.service</b> in <b>InitDBService.class</b> and <b><i><u>comment</u></i></b> createData() method (in @PostConstruct void initDB() method)
 
 <div class="highlight highlight-text-html-php">
 <pre>
 @PostConstruct
 public void initDB(){
-	//createData();				//uncomment to initiate some data in DB
+	//createData();				// comment to run JUnit tests
 }
 </pre>
 </div>
+
+2. In Eclipse Run As -> JUnit Test
 
 
 
