@@ -3,9 +3,12 @@ ATOS Zadanie Library
 
 Author: Marcin Piskor
 
-<h1><b>Library Maven Spring application</b></h1>
+<h1>Library Maven Spring application</h1>
 
-<h3><b>Running ATOSLibrary locally</b></h3>
+<h3>Running ATOSLibrary locally</h3>
+
+<h4>1. Clone the repository from GitHub:</h4>
+* $ git clone git://github.com/SpringSource/greenhouse.git
 
 
 
