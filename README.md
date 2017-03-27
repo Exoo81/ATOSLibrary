@@ -15,6 +15,7 @@ Author: Marcin Piskor
     <ul><li> $ mvn clean install</li></ul>
 <h4>4. Running ATOSLibrary locally (tested on Tomcat8):</h4>
     <ul><li> mvn tomcat7:run</li></ul>
+You can then access ATOSLibrery locally here: http://localhost:8080/ATOSLibrary/
  
 <h3>Stack</h3>
 <ul>
