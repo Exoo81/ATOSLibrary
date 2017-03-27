@@ -10,14 +10,22 @@ Author: Marcin Piskor
 <h4>1. Clone the repository from GitHub:</h4>
     <ul><li> $ git clone https://github.com/Exoo81/ATOSLibrary.git</li></ul>
 <h4>2. Navigate into the cloned repository directory:</h4>
-    <li> $ cd ATOSLibrary</li>
+    <ul><li> $ cd ATOSLibrary</li></ul>
 <h4>3. The project uses Maven to build:</h4>
-    * $ mvn clean install
+    <ul><li> $ mvn clean install</li></ul>
 <h4>4. Running ATOSLibrary locally (tested on Tomcat8):</h4>
-    * mvn tomcat7:run
+    <ul><li> mvn tomcat7:run</li></ul>
  
 <h3>Stack</h3>
-
+<ul>
+<li> Java8</li>
+<li> Maven</li>
+<li> Spring</li>
+<li> Tomcat8</li>
+<li> jUnit</li>
+<li> Hibernate</li>
+<li> HSQL</li>
+</ul>
 
 
 
