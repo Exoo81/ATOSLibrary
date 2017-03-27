@@ -15,9 +15,10 @@
 <h4>4. Running ATOSLibrary locally (tested on Tomcat8):</h4>
     <ul><li> mvn tomcat7:run</li></ul>
  </pre>
-You can then access ATOSLibrery locally here: http://localhost:8080/ATOSLibrary/
+<pre>You can then access ATOSLibrery locally here: http://localhost:8080/ATOSLibrary/</pre>
  
 <h3>Tech. stack used</h3>
+<pre>
 <ul>
 <li> Java8</li>
 <li> Maven</li>
@@ -28,6 +29,7 @@ You can then access ATOSLibrery locally here: http://localhost:8080/ATOSLibrary/
 <li> HSQL</li>
 <li> Eclipse</li>
 </ul>
+</pre>
 
 
 
