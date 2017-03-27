@@ -16,7 +16,7 @@
     <ul><li> mvn tomcat7:run</li></ul>
 You can then access ATOSLibrery locally here: http://localhost:8080/ATOSLibrary/
  
-<h3>Stack</h3>
+<h3>Tech. stack used</h3>
 <ul>
 <li> Java8</li>
 <li> Maven</li>
