@@ -15,6 +15,8 @@ Author: Marcin Piskor
     * $ mvn clean install
 <h4>4. Running ATOSLibrary locally (tested on Tomcat8):</h4>
     * mvn tomcat7:run
+ 
+<h3>Data base information</h3>
 
 
 
