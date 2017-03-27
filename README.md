@@ -1,7 +1,6 @@
 # ATOSLibrary
-ATOS Zadanie Library 
 
-Author: Marcin Piskor
+@Author: Marcin Piskor
 
 <h1>Library Maven Spring application</h1>
 
