@@ -33,10 +33,13 @@
 
 <h3>To generate valid data in HSQLDB</h3>
 
-
+Go to package com.atos.library.service in InitDBService.class and uncomment createData() method (in @PostConstruct void initDB() method)
 <div class="highlight highlight-text-html-php">
 <pre>
-asdasd
+@PostConstruct
+	public void initDB(){
+		//createData();				//uncomment to initiate some data in DB
+	}
 </pre>
 </div>
 
