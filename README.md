@@ -37,9 +37,9 @@ Go to package com.atos.library.service in InitDBService.class and uncomment crea
 <div class="highlight highlight-text-html-php">
 <pre>
 @PostConstruct
-	public void initDB(){
-		//createData();				//uncomment to initiate some data in DB
-	}
+public void initDB(){
+	//createData();				//uncomment to initiate some data in DB
+}
 </pre>
 </div>
 
