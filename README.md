@@ -25,6 +25,7 @@ You can then access ATOSLibrery locally here: http://localhost:8080/ATOSLibrary/
 <li> jUnit</li>
 <li> Hibernate</li>
 <li> HSQL</li>
+<li> Eclipse</li>
 </ul>
 
 
