@@ -8,9 +8,9 @@ Author: Marcin Piskor
 <h3>Running ATOSLibrary locally</h3>
 
 <h4>1. Clone the repository from GitHub:</h4>
-    <li> $ git clone https://github.com/Exoo81/ATOSLibrary.git</li>
+    <ul><li> $ git clone https://github.com/Exoo81/ATOSLibrary.git</li></ul>
 <h4>2. Navigate into the cloned repository directory:</h4>
-    * $ cd ATOSLibrary
+    <li> $ cd ATOSLibrary</li>
 <h4>3. The project uses Maven to build:</h4>
     * $ mvn clean install
 <h4>4. Running ATOSLibrary locally (tested on Tomcat8):</h4>
