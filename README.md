@@ -43,6 +43,8 @@ public void initDB(){
 </pre>
 </div>
 
+In Eclipse Console you can read results of implemented methods based on genetated data. 
+
 
 
 
