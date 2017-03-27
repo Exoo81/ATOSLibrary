@@ -58,7 +58,7 @@ public void initDB(){
 </pre>
 </div>
 
-2. In Eclipse Run As -> JUnit Test
+2. In Eclipse Run As -> JUnit Test (JUnit tests implemented in scr/test/java -> com.atos.library.service.BookServiceImplTest.class
 
 
 
